@@ -1,0 +1,25 @@
+h1,h5,h4 {
+  color: white;
+}
+.btn-inicio {
+  background-color: #240504;
+  border-radius: 60px;
+}
+.border {
+  border-radius: 60px;
+}
+.inic{
+  width: 100%;
+  height: auto;
+}
+.empezar{
+  text-align: center;
+  padding: 3% 0;
+  margin: auto;
+  width: 60%;
+}
+.evento{
+  color: black;
+}
+
+

@@ -1,0 +1,25 @@
+.colum{
+    border-style:inset;
+    background-color: #1f295e;
+}
+#tiempoTotal{
+   
+    background-color:#171f46;
+    height: 170px;
+    
+}
+.datos{
+    
+    height: 95px;
+    text-align: center;
+    background-color:#171f46;
+}
+.centro{
+    border: 5px solid black;
+    height: 65px;
+    width: 25%;
+    text-align: center;
+    margin: auto;
+    
+}
+
